@@ -14,4 +14,9 @@ private void addToKart() {
 private void payment() {
 	System.out.println("This is Anish - working on Payment module");
 }
+
+private void Confirmation() {
+	System.out.println("This is satham");
+}
+
 }
